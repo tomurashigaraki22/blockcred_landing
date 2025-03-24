@@ -1,0 +1,13 @@
+:root {
+  --bg-primary: theme('colors.white');
+  --bg-secondary: theme('colors.purple.50');
+  --text-primary: theme('colors.gray.900');
+  --text-secondary: theme('colors.gray.600');
+}
+
+[data-theme='dark'] {
+  --bg-primary: theme('colors.black');
+  --bg-secondary: theme('colors.purple.900');
+  --text-primary: theme('colors.white');
+  --text-secondary: theme('colors.gray.300');
+}
