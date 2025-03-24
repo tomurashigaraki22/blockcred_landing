@@ -5,7 +5,7 @@ import { Pricing } from "./components/Pricing"
 import { Contact } from "./components/Contact"
 import { Footer } from "./components/Footer"
 import "./index.css"
-import { Header } from "./components/header"
+import { Header } from "./components/Header"
 
 function App() {
   return (
